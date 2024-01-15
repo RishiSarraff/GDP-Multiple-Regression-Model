@@ -3,10 +3,16 @@ This is a Multiple Regression Model in RStudio and RMarkdown with packages and l
 
 ## Background:
 
+GDP is important to predict because it provides key insights into the financial health and stability of a nation. The success of a country’s economy is an indicator of the well-being of the general population. If the economy is good, it means that people have elevated incomes and can contribute to the consumption of goods and services that in turn provides jobs that allow people to exit poverty and further contribute to the growth
+of the economy (Sen, 2021). Lower fertility rates indicate that parents have higher incomes that they can invest in higher quality (and more expensive) education and childcare for fewer children (Doepke, 2022). Low population growth rates indicate more labor, which leads to higher productivity, meaning more goods and services are available for consumption, leading to an improvement in the performance of an economy (Population, n.d.). High Dependency rates indicate less people in the workforce, and a less supported economy.
 
-<div style="text-align:center">
-<img width="558" alt="Transformed Histogram" src="https://github.com/RishiSarraff/GDP-Multiple-Regression-Model/assets/129014691/b1a4b377-59b8-454a-a157-89b9d297f955">
-</div>
+    1. Do countries with high fertility rates have lower GDPs on average?
+    2. Do countries with low population growth rates have lower GDPs on average?
+    3. Do countries with high dependency rate have lower GDPs on average?
+
+<img width="887" alt="Transformed Histogram" src="https://github.com/RishiSarraff/GDP-Multiple-Regression-Model/assets/129014691/b1a4b377-59b8-454a-a157-89b9d297f955">
+
+
 
 ## Data Description:
 
