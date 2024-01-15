@@ -10,6 +10,13 @@ of the economy (Sen, 2021). Lower fertility rates indicate that parents have hig
     2. Do countries with low population growth rates have lower GDPs on average?
     3. Do countries with high dependency rate have lower GDPs on average?
 
+## Solution:
+
+To figure out a solution to these questions and a deeper understanding for these questions, the group decided to conduct a multiple regression analysis using the packages and libraries listed above in RStudio, coming up with a model to accurately fit the data and provide for an apt prediction and confidence interval. Below is a data description document of the variables taken into consideration and tested for significance to create the utmost accurate model.
+
+<img width="768" alt="image" src="https://github.com/RishiSarraff/GDP-Multiple-Regression-Model/assets/129014691/cbd7d197-ac3e-4ceb-ad63-175ceb5549bf">
+
+
 ## Credits:
 
 Built in Fall 2023 during Stat 3220 (Introduction to Regression Analysis) by Rishi Sarraff, Navya Aenugu, Avery Brazelton, and Isabela Barton. Supervised by Professor Krista Varanyak.
