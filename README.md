@@ -4,9 +4,9 @@ This is a Multiple Regression Model in RStudio and RMarkdown with packages and l
 ## Background:
 
 
-
-<img width="558" alt="image" src="https://github.com/RishiSarraff/GDP-Multiple-Regression-Model/assets/129014691/b1a4b377-59b8-454a-a157-89b9d297f955">
-
+<div style="text-align:center">
+<img width="558" alt="Transformed Histogram" src="https://github.com/RishiSarraff/GDP-Multiple-Regression-Model/assets/129014691/b1a4b377-59b8-454a-a157-89b9d297f955">
+</div>
 
 ## Data Description:
 
