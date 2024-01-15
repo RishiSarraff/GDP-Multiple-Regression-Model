@@ -13,6 +13,17 @@ of the economy (Sen, 2021). Lower fertility rates indicate that parents have hig
 <img width="887" alt="Transformed Histogram" src="https://github.com/RishiSarraff/GDP-Multiple-Regression-Model/assets/129014691/b1a4b377-59b8-454a-a157-89b9d297f955">
 
 
-
 ## Data Description:
+
+### WHO: 
+Our dataset uses data collected by the US Census Bureau and Focus Economics.
+
+### WHAT: 
+The Census Bureau collects population, growth, fertility rate, life expectancy, and sex ratio data. Focus Economics collects data on GDP growth, inflation, and exchange rates.
+
+### WHEN: 
+The US Census Bureau’s International Database was last updated in 2023, with individual countries updating their data periodically. The United States is mandated by the Constitution in Article I, Section 2 to count each resident in the country every 10 years on years that end in ‘0’ (International Database, 2023) and other countries have similar methods of conducting new census investigations. Focus Economics collects updated data monthly from around 3,500 international forecasts.
+
+### WHY: 
+The U.S. uses census data for Electoral College votes allocation and distributing over
 
