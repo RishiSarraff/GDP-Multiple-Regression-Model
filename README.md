@@ -14,7 +14,7 @@ of the economy (Sen, 2021). Lower fertility rates indicate that parents have hig
 
 To figure out a solution to these questions and a deeper understanding for these questions, the group decided to conduct a multiple regression analysis using the packages and libraries listed above in RStudio, coming up with a model to accurately fit the data and provide for an apt prediction and confidence interval. Below is a data description document of the variables taken into consideration and tested for significance to create the utmost accurate model.
 
-The Final Model: log({GDP}) = 23.3857 - 5.3241 log({AverageAge}) - 0.1848 {Life Expectancy} + 0.0726 log({Average Age} * {Life Expectancy}) - 3.0819 {Low Income} - 1.8835 {Lower Middle Income} - 0.9782 \text{Upper Middle Income}
+The Final Model: log(GDP) = 23.3857 − 5.3241log(Average Age) − 0.1848(Life Expectancy) + 0.0726log(Average Age × Life Expectancy) − 3.0819(Low Income) − 1.8835(Lower Middle Income) − 0.9782(Upper Middle Income)
 
 
 <img width="765" alt="Data Summary Sheet" src="https://github.com/RishiSarraff/GDP-Multiple-Regression-Model/assets/129014691/f2430610-72bb-44d8-8ba0-278a80309d54">
